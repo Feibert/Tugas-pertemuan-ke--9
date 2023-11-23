@@ -1096,15 +1096,13 @@ findViewById(R.id.btnSetAlarm).setOnClickListener(new View.OnClickListener() {
 </activity>
 ```
 
-## Hasil Run 
+## Hasil Run
+
 - Berikut adalah hasil running dari aplikasi yang telah saya buat :
 
 
 
-
-
-
+- 
 https://github.com/Feibert/Tugas-pertemuan-ke--9/assets/151450071/a44ae5fb-f974-4127-a65f-275477d76667
 
-
-# Sekian, Terima kasih
+#Semoga membantu
